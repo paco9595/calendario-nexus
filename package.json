@@ -1,0 +1,18 @@
+{
+  "name": "calendario-nexus",
+  "version": "1.0.0",
+  "description": "busca tus  calendarios de tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "francisco Villarreal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
